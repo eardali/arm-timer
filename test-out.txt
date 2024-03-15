@@ -1,0 +1,15 @@
+Expected delay for each round: 100 us
+Round#: 0, Number of passed cycles, system_timer: 103, arm_timer: 25208, ratio: 244.74
+Round#: 1, Number of passed cycles, system_timer: 103, arm_timer: 25186, ratio: 244.52
+Round#: 2, Number of passed cycles, system_timer: 101, arm_timer: 25092, ratio: 248.44
+Round#: 3, Number of passed cycles, system_timer: 102, arm_timer: 25189, ratio: 246.95
+Round#: 4, Number of passed cycles, system_timer: 102, arm_timer: 25170, ratio: 246.76
+Round#: 5, Number of passed cycles, system_timer: 107, arm_timer: 26316, ratio: 245.94
+Round#: 6, Number of passed cycles, system_timer: 101, arm_timer: 25181, ratio: 249.32
+Round#: 7, Number of passed cycles, system_timer: 102, arm_timer: 25130, ratio: 246.37
+Round#: 8, Number of passed cycles, system_timer: 101, arm_timer: 25086, ratio: 248.38
+Round#: 9, Number of passed cycles, system_timer: 101, arm_timer: 25165, ratio: 249.16
+Arm timer value for consecutive reads:
+24807618, 24807663, 24807708, 24807753, 24807798, 24807843, 24807888, 24807933, 24807978, 24808022,
+Arm timer value difference for consecutive reads:
+45, 45, 45, 45, 45, 45, 45, 45, 44,
